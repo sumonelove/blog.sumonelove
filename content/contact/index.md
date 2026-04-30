@@ -9,6 +9,6 @@ author: Sumit Kumar
 
 Email: sum@sumone.me
 
-Telegram: [@sumonelove](https://t.me/genzcaveman)
+Telegram: [@genzcaveman](https://t.me/genzcaveman)
 
 LinkedIn:[ sumone](https://www.linkedin.com/in/sum0ne)
